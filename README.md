@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pragyanur
+- 👋 Hi, I’m Pragyanur
 - 👀 I’m interested in developing software for creative professions
 - 🌱 I’m currently learning data structure and algorithms in C++/C
 - 💞️ I’m looking to collaborate on small projects
