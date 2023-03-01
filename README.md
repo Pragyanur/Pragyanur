@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pragyanur
 - 👀 I’m interested in science(as an umbrella term)
-- 🌱 I’m currently learning full-stack development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on small projects
 - 📫 Reach me through
 -   +Email: pragyanur.babu@gmail.com
