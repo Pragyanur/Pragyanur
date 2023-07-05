@@ -1,6 +1,6 @@
 - Hi, I’m Pragyanur
 - I’m interested in science(as an umbrella term)
-- I’m currently learning AI, ML and web development
+- I’m currently learning AI, ML and web development while pursuing my PhD
 - I’m looking to collaborate on small projects
 
 Reach me through
