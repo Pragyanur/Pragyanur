@@ -1,6 +1,6 @@
 - Hi, I’m Pragyanur
 - I’m a great admirer of philosophy, physics, computer science and maths
-- I’m currently learning AI, ML and web development while pursuing my PhD
+- I’m currently learning AI, ML and computer graphics while pursuing my PhD
 - I’m looking to collaborate on small projects
 
 Reach me through
