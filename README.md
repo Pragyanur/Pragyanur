@@ -3,7 +3,6 @@
 
 Reach me through
 - Email: pragyanur.babu@gmail.com
-- Twitter: @MovingFramesP
 
 <!---
 Pragyanur/Pragyanur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
