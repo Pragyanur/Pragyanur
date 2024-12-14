@@ -1,4 +1,5 @@
-- I am slow
+- I am slow sometimes
+- And sometimes very fast
 
 Reach me through
 - Email: pragyanur.babu@gmail.com
